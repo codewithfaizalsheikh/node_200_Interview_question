@@ -9,11 +9,17 @@ A comprehensive collection of Node.js questions organized from beginner to advan
 
 ## 📚 Table of Contents
 
-- [🟢 Beginner Level (1-50)](#-beginner-level-1-50)
-- [🟡 Intermediate Level (51-120)](#-intermediate-level-51-120)
-- [🔴 Advanced Level (121-200)](#-advanced-level-121-200)
-- [📖 How to Use](#-how-to-use)
-- [🤝 Contributing](#-contributing)
+- [🟢 (NODE) Beginner Level (1-50)](#-beginner-level-1-50)
+- [🟡 (NODE) Intermediate Level (51-120)](#-intermediate-level-51-120)
+- [🔴 (NODE) Advanced Level (121-200)](#-advanced-level-121-200)
+- [📖 (NODE) How to Use](#-how-to-use)
+- [🤝 (NODE) Contributing](#-contributing)
+- [🟢 (JAVASCRIPT) Basic Level Questions (1-30)](#-basic-level-questions-1-30)
+- [🟡 (JAVASCRIPT) Intermediate Level Questions (31-42)](#-intermediate-level-questions-31-42)
+- [🔴 (JAVASCRIPT) Advanced Level Questions (43-50)](#-advanced-level-questions-43-50)
+- [📖 (JAVASCRIPT) How to Use](#-how-to-use)
+- [🤝 (JAVASCRIPT) Contributing](#-contributing)
+
 
 ---
 
