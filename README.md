@@ -1,4 +1,4 @@
-# Top Node Interview Questions (Latest 2025)
+# Top Node/JavaScript Interview Questions (Latest 2025)
 # Node.js Interview Questions - 200 Questions (Beginner to Advanced)
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
